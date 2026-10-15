@@ -1,1 +1,1 @@
-This repository contains the scripts used to conduct the experiments for this paper.
+**Paper**: From Pixels to Tokens: Adaptive LLM Decoding and Reliability Analysis with Otsu Thresholding
